@@ -1,1 +1,1 @@
-Fuke was created directly on GitHub
+File was created on Local git and getiing pushed to GitHub
